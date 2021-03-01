@@ -46,3 +46,4 @@ a {
 .gallery__item:nth-child(12) { grid-area: 5 / 3 / 6 / 4; }
 .gallery__item:nth-child(13) { grid-area: 6 / 1 / 7 / 2; }
 .gallery__item:nth-child(14) { grid-area: 6 / 2 / 7 / 4; }
+.gallery__item:nth-child(22) { grid-area: 9 / 2 / 10 / 4; }
